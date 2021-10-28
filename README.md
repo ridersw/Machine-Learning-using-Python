@@ -39,3 +39,17 @@
 ### CarClassificationPickleDump.py
 
 -Similar to CarClassification but using the existing pickle created by CarClassification.py and not implementing and runnning the model again.
+
+## ML- SVM
+
+### Dataset Used- Breast Cancer from sklearn datasets
+
+### SVM_Cancer
+
+-The clustering is done via vanilla svm algorithm
+-Accuracy is around 74%
+
+### SVM_Cancer_Optimize
+
+- Clustering is done via adding additional parameters to the SVM, kernel.
+- Kernel is basically a process of adding additional dimension
